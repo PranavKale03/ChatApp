@@ -35,5 +35,5 @@
   
 
 <!--  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project. -->
-For Feedback or Suggestions Mail Me At cmhetre235@gmail.com 🙂
-
+<!-- For Feedback or Suggestions Mail Me At cmhetre235@gmail.com 🙂
+ -->
